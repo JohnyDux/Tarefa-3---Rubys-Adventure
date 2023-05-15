@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2130255938489722675}
   - component: {fileID: 2130255938489722678}
   - component: {fileID: 2130255938489722677}
+  - component: {fileID: 3852745221669320305}
   m_Layer: 0
   m_Name: MrClockwork
   m_TagString: Untagged
@@ -133,3 +134,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.56296825, y: 0.44145203}
   m_EdgeRadius: 0
+--- !u!114 &3852745221669320305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130255938489722674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70aed4d5622fad46930227054fafe2c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
